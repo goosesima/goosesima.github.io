@@ -1,0 +1,85 @@
+Title: Example
+Author: GooseSima
+Image author: https://goosesima.github.io/img/logo.png
+Date: 30.09.2021
+Thumbnail: https://image.shutterstock.com/image-vector/example-stamp-label-square-grunge-260nw-1725989701.jpg
+Description: Example description
+Show: no
+
+After event on YouTube about 6 years Deltarune appeared teaser **new part of game**.
+
+# H1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+https://media4.giphy.com/media/4N5vB4aErlVtVsywBw/giphy.gif
+__Bold using underline__
+okay
+_italic using underline_
+let's try other
+**Bold**
+great!
+*italic*
+
+**two bold
+lines**
+nice
+**ab**
+Test link:
+https://tobyfox.itch.io/deltarune
+
+Button link:
+[**Button**](https://tobyfox.itch.io/deltarune)
+
+https://66.media.tumblr.com/80cae3013cf2513e3cef9179f7d64073/tumblr_potny4WIRP1y8zfw0o1_500.gif
+
+Best JoJo stand:
+1. Made In Heaven.
+2. Tusk Act IV.
+3. Gold Experience Requiem.
+
+~~lined~~
+
+```
+.aom-img{
+  width: 80%;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(255,255,255,0.5);
+  border-radius: 15px;
+  border: #fff solid 1px;
+}
+```
+
+`console.log('simple');`
+
+https://i.imgur.com/HVUc61N.png
+[Markdown information](https://commonmark.org/help/)
+
+1) scope 1
+2) scope 2
+3) three scope
+
+H1 Alternative
+==============
+
+h2 Alternative
+--------------
+
+Games be like:
+* Cross-platform
+* No donate
+* Big community
+* Total free
+works
+- Even minus
+* and asterix
+https://upload.wikimedia.org/wikipedia/ru/3/3e/Asterix_%28%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%29.png
+
+3x **lower** size markdown file, than pure HTML
+
+## Quote by Mettaton
+https://www.seekpng.com/png/detail/230-2306904_mettaton-undertale-mettaton-box-sprite.png
+> MILK, SUGAR, AND EGGS!
+> YOU SHOULD BE ABLE TO FIND  THEM ON THE BACK COUNTER!
