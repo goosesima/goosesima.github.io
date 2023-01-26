@@ -154,7 +154,7 @@ aom.parse = function (txt) {
     date: 'Date not specified',
     thumbnail: 'https://www.freeiconspng.com/uploads/error-icon-28.png',
     description: 'Description not specified',
-    keywords: 'blog goosesima, блог симагусь, goosesima, sima, goose, сима, гусь, сима дак, серафим гусь, simaduck, duck, линки симагусьа, links goosesima',
+    keywords: 'blog goosesima, блог симагусь, goosesima goosesima',
     text: '',
     show: true,
     speed: 0,
